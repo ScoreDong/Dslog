@@ -3,7 +3,7 @@ layout: post
 title: 欢迎来到我的博客
 date: 2020-07-16 13:32:20 +0300
 description: 《追风筝的人》 # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: fengzheng.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: Holidays,Hawaii
 ---
