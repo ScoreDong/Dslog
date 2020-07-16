@@ -3,21 +3,10 @@ layout: post
 title: 欢迎来到我的博客
 date: 2020-07-16 13:32:20 +0300
 description: 《追风筝的人》 # Add post description (optional)
-img: fengzheng.jpg # Add image post (optional)
+img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: Holidays,Hawaii
 ---
- 人生犹如一列疾驰的火车，疾驰在生命的旅程，上演韶华绽放的美丽。我们都是故事的主角，无论是熟悉的， 陌生的，遇见的，错过的，记忆的，遗忘的，都在竭尽的演好自己的角色，为的只是一场永不凋零的演出。 尽管有人下车，有人上车，但却一直在向前，向前行驶。
-
-## 1
-流年是一段韶华，苍老是一段年华。当手中曾经握紧的风沙扬起，当指尖的沙漏倾泄，当笔墨侧锋浓重，窗外的风景开始变了颜色，瘦黄却凝结成熟，枯零却捎带自然，萧瑟却洋溢温暖。
-
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
-
-恰逢韶华，岁月靖好。于不知不觉间，开始留恋，难舍沿途的风景。突然，豁朗的天空张开怀抱，处处洋溢芳香。原来，生活如一坛老酒，愈是酝酿，愈是积淀，愈是醇香。靖好的光阴，安稳的现实，又岂能不小心错过？漫步在稻花香间，闲逸在河边垂钓，休憩在懒洋洋的阳光下，即是幸福。此时，不求似昙花一般于一夜间轰轰烈烈的绽放，不求似樱花一样凋零在明媚的季节，但求平淡中包裹着平凡的温暖，享受着家常的温馨。
-
->Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
-
 Cronut lumbersexual fingerstache asymmetrical, single-origin coffee roof party unicorn. Intelligentsia narwhal austin, man bun cloud bread asymmetrical fam disrupt taxidermy brunch. Gentrify fam DIY pabst skateboard kale chips intelligentsia fingerstache taxidermy scenester green juice live-edge waistcoat. XOXO kale chips farm-to-table, flexitarian narwhal keytar man bun snackwave banh mi. Semiotics pickled taiyaki cliche cold-pressed. Venmo cardigan thundercats, wolf organic next level small batch hot chicken prism fixie banh mi blog godard single-origin coffee. Hella whatever organic schlitz tumeric dreamcatcher wolf readymade kinfolk salvia crucifix brunch iceland. Literally meditation four loko trust fund. Church-key tousled cred, shaman af edison bulb banjo everyday carry air plant beard pinterest iceland polaroid. Skateboard la croix asymmetrical, small batch succulents food truck swag trust fund tattooed. Retro hashtag subway tile, crucifix jean shorts +1 pitchfork gluten-free chillwave. Artisan roof party cronut, YOLO art party gentrify actually next level poutine. Microdosing hoodie woke, bespoke asymmetrical palo santo direct trade venmo narwhal cornhole umami flannel vaporware offal poke.
 
 * Hexagon shoreditch beard
