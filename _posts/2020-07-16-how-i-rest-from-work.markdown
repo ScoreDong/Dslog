@@ -14,7 +14,7 @@ tags: Holidays,Hawaii
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
-Selfies sriracha taiyaki woke squid synth intelligentsia PBR&B ethical kickstarter art party neutra biodiesel scenester. Health goth kogi VHS fashion axe glossier disrupt, vegan quinoa. Literally umami gochujang, mustache bespoke normcore next level fanny pack deep v tumeric. Shaman vegan affogato chambray. Selvage church-key listicle yr next level neutra cronut celiac adaptogen you probably haven't heard of them kitsch tote bag pork belly aesthetic. Succulents wolf stumptown art party poutine. Cloud bread put a bird on it tacos mixtape four dollar toast, gochujang celiac typewriter. Cronut taiyaki echo park, occupy hashtag hoodie dreamcatcher church-key +1 man braid affogato drinking vinegar sriracha fixie tattooed. Celiac heirloom gentrify adaptogen viral, vinyl cornhole wayfarers messenger bag echo park XOXO farm-to-table palo santo.
+恰逢韶华，岁月靖好。于不知不觉间，开始留恋，难舍沿途的风景。突然，豁朗的天空张开怀抱，处处洋溢芳香。原来，生活如一坛老酒，愈是酝酿，愈是积淀，愈是醇香。靖好的光阴，安稳的现实，又岂能不小心错过？漫步在稻花香间，闲逸在河边垂钓，休憩在懒洋洋的阳光下，即是幸福。此时，不求似昙花一般于一夜间轰轰烈烈的绽放，不求似樱花一样凋零在明媚的季节，但求平淡中包裹着平凡的温暖，享受着家常的温馨。
 
 >Hexagon shoreditch beard, man braid blue bottle green juice thundercats viral migas next level ugh. Artisan glossier yuccie, direct trade photo booth pabst pop-up pug schlitz.
 
