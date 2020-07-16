@@ -57,6 +57,3 @@ img: fengzheng.jpeg # Add image post (optional)
 生生世世，从稚嫩的儿时，懵懂的少年，正茂的壮年，到迟暮的老人，一直一直持续着，做一个追风筝的人，没有断点。
 若你也是一个文字雕刻者，我等你
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
