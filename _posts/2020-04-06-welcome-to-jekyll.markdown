@@ -2,7 +2,7 @@
 layout: post
 title: 欢迎来到我的博客
 date: 2020-07-16 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: 《若有轮回，我仍是追风筝的人》 # Add post description (optional)
 img:  # Add image post (optional)
 ---
 这是一个测试文章 this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
