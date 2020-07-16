@@ -1,20 +1,36 @@
-# Dslog.github.io
-one two three
-学习前端的人应该知道，开始学习前端时，心里想的肯定是我一定要给自己做一个的非常棒的网站，学完之后网站做好了，但是要怎么上线呢？？？
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-作为一个前端，拥有有自己的个人网站，算是迈出了前端道路的第一步！
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-本文目的
-通过GitHub Pages免费快速的搭建个人网站，文章随长，其实非常简单，写的详细是为了能够让多数人都能够看得懂
+## Demo
 
-建站常识
-首先了解常识，建站三部曲：
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-网站项目
-服务器
-域名
-简单来说，就是我们要有一个域名，然后绑定服务器，再把网站上传到服务器上，这样就可以通过域名访问我们的网站了
+The main page would look like this:
 
-网站项目就是你写的网站文件，这个如果不会的话请去学习前端 w3school传送门
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-服务器就是网络中为用户提供服务的专用设备。分为访问、文件、数据库、通信等不同功能的服务器。那么要怎样拥有一个服务器呢，(用钱就好了！！！)
+The post page would look like this:
+
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
+
+## Installation:
+
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+## License
+
+GNU General Public License v3.0
+
+## Donate
+
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
